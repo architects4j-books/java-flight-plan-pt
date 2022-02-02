@@ -4,6 +4,13 @@ Ao longo do tempo vemos o termo cloud tomando cada vez mais formato e espaço de
 
 ## Por que cloud?
 
+O primeiro e mais importante passo dessa jornada é a sua motivação. Baseado no livro do [Simon Sinek](https://simonsinek.com/) [e o seu círculo dourado](https://simonsinek.com/product/start-with-why/?ref=home). Falaremos o porquê deveríamos conhecer e explorar o ambiente de nuvem.
+
+Ao acompanhar a história da engenharia de software e sua metodologia sempre vimos a necessidade de uma entrega mais rápida para se obter constante feedback, principalmente, falhar rápido. Os softwares vem se tornando cada vez mais complexo, envolvendo um número maior de especialistas, logo, mais caro. Assim, garantir que o software está na direção certa não é apenas o receio da perda to time to market, mas a garantia que o investimento está indo na direção correta.
+
+
+
+
 ## Por que a adoção é crítica para o sucesso da organização?
 ## Entenda os diversos serviços gerenciados
 ### IaaS, PaaS,SaaS
