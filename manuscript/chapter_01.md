@@ -8,7 +8,7 @@ O primeiro e mais importante passo dessa jornada é a sua motivação. Baseado n
 
 Ao acompanhar a história da engenharia de software e sua metodologia sempre vimos a necessidade de uma entrega mais rápida para se obter constante feedback, principalmente, falhar rápido. Os softwares vem se tornando cada vez mais complexo, envolvendo um número maior de especialistas, logo, mais caro. Assim, garantir que o software está na direção certa não é apenas o receio da perda to time to market, mas a garantia que o investimento está indo na direção correta.
 
-
+O desfecho dessa história é o que já conhecemos. Aos poucos o modelo cascasta ou waterfall, do qual esperamos meses ou anos para o primeiro feedback do usuário, foi dando espaço é um modelo que foca em pequenas entregas e estar mais apto a mudanças garantido com que o usuário esteja o mais próximo possível do time de desenvolvimento.
 
 
 ## Por que a adoção é crítica para o sucesso da organização?
