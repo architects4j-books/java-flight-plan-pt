@@ -1,6 +1,6 @@
 # Cloud-native
 
-
+O desafio de mover e otimizar a aplicação dentro do ambiente de nuvem a ponto de focar no seu negócio, como mencionado no capítulo anterior. É o sonho e o objetivo das organizações indiferente do seu tamanho. Nesse cenário um termo se tornou em voga: o cloud-native. Nesse capítulo, conversaremos um pouco sobre esse conceito e como isso impacta dentro da arquitetura da sua aplicação.
 
 ## Definição
 
