@@ -4,7 +4,7 @@ O desafio de mover e otimizar a aplicação dentro do ambiente de nuvem a ponto 
 
 ## Definição
 
-Uma aplicação pode ser categorizada conforme seu nível de adequação a um ambiente de cloud como sendo *cloud-enabled* ou *cloud-native* (a.k.a. *cloud-ready*).
+A definição do termo cloud-native é improvável que chegamos num consenso nesse exato momento, principalmente, por que ele se tornou um conceito mais filosófico, mercadológico e principalmente subjetivo. Isso quer dizer que a depender da empresa, organização ou indivíduo que seja questionado com esse termo a resposta tende a ser diferente.
 
 ### Cloud-Enabled
 
