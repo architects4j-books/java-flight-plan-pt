@@ -77,11 +77,7 @@ Dessa forma, todo o problema de logística, praga nas fazendas, problemas ambien
 
 
 
-Esse é a maior vantagem de computação em nuvem, poder delegar e focar mais rapidamente no que importa do seu negócio, evitar perder o time to market, receber feedback do usuário e testar hipóteses frente ao seu produto.
-
-
-
-
+Em resumo, a maior motivação de cloud é o poder de delegar tudo aquilo que não corresponde o core-business do negócio e partir para a parte mais importante do negócio. Ao tempo de não deixar a qualidade dos serviços tercerizados.
 
 ## Entenda os diversos serviços gerenciados
 
