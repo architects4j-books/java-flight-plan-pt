@@ -115,6 +115,18 @@ No lado do **PaaS** ou platform as a service, damos um próximo passo na abstra�
 
 No último e no maior passo de abração de nuvem como serviço temos **SaaS** ou software as a service. É a última camada de abstração do qual além de se delegar as duas camadas anteriores, hardware e operações, também se delega a codificação também. De modo que o público-alvo são usuários que não precisam ter nenhum conhecimento de prévio de computação.
 
+
+
+Recapitulando:
+
+| Tipo de serviço | O problema de outra pessoa                    | Exemplos                                                    |
+| --------------- | --------------------------------------------- | ----------------------------------------------------------- |
+| IaaS            | hardware                                      | Configuração de servidor, energia elétrica, refrigeração    |
+| PaaS            | O anterior além dos  os detalhes de operações | Atualização de sistema operacional, firewall, backup        |
+| SaaS            | Todos os anterioes além do software           | Codificação, escolha de linguagem, definição de arquitetura |
+
+
+
 ### CaaS
 
 ### Managed Application Services
