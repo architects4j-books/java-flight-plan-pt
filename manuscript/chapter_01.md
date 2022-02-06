@@ -52,16 +52,36 @@ Porém, focando em organização, ou seja, ao invés do usuário focaremos na pi
 
 
 
-No primeiro cenário, temos uma pizzaria on-premise do qual ela é responsável:
+No primeiro cenário, temos uma pizzaria do qual ela é responsável por todo o processo:
 
 - Pela fazenda, colheita de trigo, queijo
 - Logística dos materiais entre a fazenda e a pizzaria
-- A criação da pizza
+- A criação da pizza (o core do meu negócio)
 - A entrega da pizza na casa dos usuários
 
 
 
-No segundo cenário
+Esse primeiro também é o pior cenário ao negócio, uma vez que como pizzaria se gasta muita carga cognitiva em diversos processos além da parte mais importante que é a confecção da pizza. 
+
+
+
+Esse ponto se torna ainda mais explícito para pequenas empresas ou com recursos limitados, afinal, terá que gastar os poucos recursos em diversos fatores além do seu diferencial como pizzaria.
+
+
+
+Caminhando para o outro extremo, do qual essa mesma pizzaria é responsável apenas pela criação da pizza e todo o restante é terceirizado. Garantimos um maior investimento ou foco no que é importante para a organização. 
+
+
+
+Dessa forma, todo o problema de logística, praga nas fazendas, problemas ambientais, dentre outros fatores não impactarão diretamente o seu negócio.
+
+
+
+Esse é a maior vantagem de computação em nuvem, poder delegar e focar mais rapidamente no que importa do seu negócio, evitar perder o time to market, receber feedback do usuário e testar hipóteses frente ao seu produto.
+
+
+
+
 
 ## Entenda os diversos serviços gerenciados
 
