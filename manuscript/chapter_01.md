@@ -16,6 +16,8 @@ Colocar o usuário próximo do time de desenvolvimento resultou em novas formas,
 
 A integração com o desenvolvimento foi uma excelente experiência, porém, não era suficiente. Afinal, ter o software pronto e não em produção é apenas meio caminho andado. A solução é trazer mais áreas para dentro do mesmo time focando sempre em uma entrega mais rápida para o usuário. Com isso, nasceu a cultura [DevOps](https://aws.amazon.com/devops/what-is-devops/) cujo foco é uma maior integração entre o time de desenvolvimento com o time de operação. 
 
+A cultura DevOps resultou em diversas boas práticas como [Continuous Integration](https://www.amazon.com/dp/0321336380) para melhorar a qualidade e a redução de riscos. E a consequência foi a inclusão de mais culturas de integração como [DevSecOps](https://dzone.com/articles/starting-with-information-security-how-to-avoid-he).
+
 
 
 
