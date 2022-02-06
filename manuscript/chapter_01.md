@@ -87,6 +87,12 @@ Como toda escolha que passa no ponto arquitetural é sempre importante que exist
 
 
 
+Salientando o que [Neal Ford](https://twitter.com/neal4d) disse em seu livro sobre [os fundamentos de arquitetura](https://www.amazon.com/dp/B08X8H15BW/). O papel principal de um arquiteto é entender e fazer um bom balanço dentre do possível, analisando os trade-offs.
+
+
+
+KARINA PRECISAMOS FECHAR OS QUADRANTES AQUI COM UMA IMAGEM, PULAREI ESSE PONTO
+
 ### IaaS, PaaS,SaaS
 
 ### CaaS
