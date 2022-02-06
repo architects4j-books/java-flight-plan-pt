@@ -139,4 +139,6 @@ Nessa primeira jornada de tipos de serviços existe o CaaS ou Contaniner as a se
 
 Porém, ele não é simples como uma Plataforma como serviço, afinal, o CaaS simplifica e facilita, porém, não anula em sua totalidade os serviços ou a gestão de operações.
 
+
+
 ### Managed Application Services
