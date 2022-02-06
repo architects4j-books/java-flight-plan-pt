@@ -32,35 +32,7 @@ Assim, temos milhares de definições. Para não sair do contexto e objetivo do 
 >
 > — [Otávio Santana](https://twitter.com/otaviojava)
 
-
-
-
-
-### Cloud-Enabled
-
-É uma aplicação que foi conteinerizada e roda na cloud, mas que originalmente foi criada para rodar em ambiente tradicional, como por exemplo um data-center local, máquinas virtuais com cluster de servidores de aplicação tradicional. Essas aplicações podem ser categorizadas como *cloud-enabled* e têm maior consumo de recursos (cpu, memória, storage), em comparação a aplicações cloud-native.
-
-Uma aplicação cloud-enabled passou por refatorações e ajustes para rodar em ambiente conteinerizado e também para suportar orquestração por plataformas como Kubernetes. Afinal de contas, não é mais o tradicional cluster de WildFly (a.k.a. JBoss EAP) ou GlassFish (Weblogic) clusterizados, que permitem que você use a rede ou sistema de arquivos a seu bel-prazer. Agora, esses serviços rodam em pods, em contêineres efêmeros.
-
-Apesar dos "contras" de se possuir uma aplicação cloud-enabled, o custo ou esforço de se refatorar toda a aplicação não são viáveis. Desta forma, a aplicação pode rodar em cloud, mas não pode usufruir de todos os benefícios existentes em um ambiente de cloud.
-
-> **INFO:** [Kubernetes](https://kubernetes.io/): É uma ferramenta open-source de orquestração de containers e trabalha muito bem com o [Docker](https://www.docker.com/). Atualmente, é a ferramenta mais popular na comunidade. Outros exemplos de ferramenta de orquestração de containers são Docker Swarm, Mesos e Amazon ECS.
-
-Para entender melhor tudo o que uma aplicação cloud-enabled *não* é capaz de utilizar nativamente, vamos falar sobre o conceito cloud-native.
-
-### Capabilities for cloud
-
-Veja alguns dos recursos que estão disponíveis e são comumente utilizados em suas aplicações que são concebidas para rodar na cloud:
-
-- Gerência de configurações (Configuration Management)
-- API Management
-- Scheduling (of workloads)
-- Distributed Tracing
-- Service Security
-- Centralized Metrics
-- Auto Scaling / Self healing
-- Service Discovery and Load Balancing
-- Centralized Logging
+Em outras palavras, o termo cloud-native se tornou um mantra tecnológico se relacional ao ideal de uma aplicação para explorar todo o potencial do modelo computacional. Porém, dificilmente teremos uma fórmula mágica ou uma definição fechada para todos os tipos de aplicações possíveis.
 
 ## Java e sua jornada de mais de vinte e cinco anos
 
