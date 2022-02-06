@@ -18,7 +18,7 @@ A integração com o desenvolvimento foi uma excelente experiência, porém, nã
 
 A cultura DevOps resultou em diversas boas práticas como [Continuous Integration](https://www.amazon.com/dp/0321336380) para melhorar a qualidade e a redução de riscos. E a consequência foi a inclusão de mais culturas de integração como [DevSecOps](https://dzone.com/articles/starting-with-information-security-how-to-avoid-he).
 
-
+Mas então, onde entra a [cloud](https://www.nist.gov/news-events/news/2011/10/final-version-nist-cloud-computing-definition-published)? A computação em nuvem veio e se tornou popular devido a sua facilidade em entregar o software. Ou seja, cloud não é apenas o servidor de outra pessoa, mas o problema de outra pessoa. É quando delegamos a gestão de hardware, operações ou todo o processo de desenvolvimento de software para outra empresa com o intuito principal de realizar entregas mais rápidas.
 
 
 ## Por que a adoção é crítica para o sucesso da organização?
