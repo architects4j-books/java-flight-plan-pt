@@ -85,6 +85,8 @@ Quando falamos de recursos e serviços de nuvem, novamente, usando o nosso princ
 
 Como toda escolha que passa no ponto arquitetural é sempre importante que existe o trade-off. Por exemplo, ao passo que uma maior abstração nos garante um menor risco isso pode fazer com que o preço seja maior além existir um cloud vendor lock-in dentro da sua pilha tecnológica a ponto de ser difícil sair desse provider a medida que você utiliza esse recurso exclusivo.
 
+
+
 ### IaaS, PaaS,SaaS
 
 ### CaaS
