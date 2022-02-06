@@ -44,7 +44,7 @@ Com isso em mente, faz sentido para uma organização manter e organizar o seu p
 
 
 
-Certamente, muitos dos leitores aqui conhecem a clássica comparação entre pizza e serviço cloud, principalmente, na perspectiva do usuário.
+Certamente, muitos dos leitores aqui conhecem a clássica comparação entre pizza e [serviço cloud, principalmente, na perspectiva do usuário definido pelo Albert Barron](https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service/).
 
 
 
