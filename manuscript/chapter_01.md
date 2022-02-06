@@ -93,7 +93,7 @@ Salientando o que [Neal Ford](https://twitter.com/neal4d) disse em seu livro sob
 
 Com base nisso definimos o seguinte diagrama do qual descutiremos melhor dentro desse capítulo.
 
-KARINA PRECISAMOS FECHAR OS QUADRANTES AQUI COM UMA IMAGEM, PULAREI ESSE PONTO
+#TODO KARINA PRECISAMOS FECHAR OS QUADRANTES AQUI COM UMA IMAGEM, PULAREI ESSE PONTO
 
 
 
