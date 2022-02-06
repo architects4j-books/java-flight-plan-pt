@@ -129,4 +129,14 @@ Recapitulando:
 
 ### CaaS
 
+Na última sessão demonstramos os três tipos de serviços que são declarados os mais maduros ou estáveis. Isso quer dizer que, indiferente da fonte que se utilize as definições básicas tendem a ser os mesmos. Os próximos tipos de serviços podemos considerar como uma zona cinzenta ou imatura, isso quer dizer que podem variar com a literatura, empresa ou se tornar desatualizado com o tempo.
+
+
+
+Nessa primeira jornada de tipos de serviços existe o CaaS ou Contaniner as a service no qual se encontro no meio de IaaS e do PaaS. Ou seja, dado o IaaS ele facilita as aplicações e serviços a partir dos containers. 
+
+
+
+Porém, ele não é simples como uma Plataforma como serviço, afinal, o CaaS simplifica e facilita, porém, não anula em sua totalidade os serviços ou a gestão de operações.
+
 ### Managed Application Services
