@@ -32,9 +32,9 @@ Assim, temos milhares de definições. Para não sair do contexto e objetivo do 
 >
 > — [Otávio Santana](https://twitter.com/otaviojava)
 
-Além dos conceitos acima, um conjunto de padrões bem recebido pela comunidade é o [12-factor](https://12factor.net/). As excelentes práticas de arquitetura de software sugeridas nessa metodologia originam do livro [Patterns of Enterprise Application Architecture, escrito por Martin Fowler e David Rice](https://books.google.com.br/books/about/Patterns_of_enterprise_application_archi.html?id=FyWZt5DdvFkC&redir_esc=y). Tendo em mente que o livro foi publicado em 2003, tempos em que ainda não se falava em "cloud-native", podemos considerar que, ao adotar os conceitos do 12-factor, você estará não apenas criando uma aplicação cloud-native, mas também implementando boas práticas arquiteturais e culturais no desenvolvimento e entrega de software.
 
-> **TIP**: Nomes de projetos que serão detalhados a seguir podem evoluir e mudar com o tempo. Porém as definições e padrões esperados de uma aplicação cloud-native permanecerão. Portanto, recomendamos a leitura das referências citadas e aprofundamento no entendimento do conceito.
+
+
 
 ### Cloud-Enabled
 
