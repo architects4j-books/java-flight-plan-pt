@@ -30,6 +30,8 @@ Simplificando drasticamente a definição de cloud para simplesmente: o problema
 
 Pensando tecnologia como uma escolha estratégica para um negócio e parafraseando o livro [Learning Domain-Driven Design](https://www.amazon.com/dp/1098100131). É crítico colocar um esforço naquilo que será um diferencial para o negócio ou seja o core ao invés de recursos que apoiam. 
 
+![Descrição e relação da complexidade e o diferencial](images/chapter_01_01.png)
+
 ## Entenda os diversos serviços gerenciados
 ### IaaS, PaaS,SaaS
 ### CaaS
