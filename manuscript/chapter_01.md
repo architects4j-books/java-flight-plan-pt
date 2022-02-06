@@ -141,7 +141,7 @@ Porém, ele não é simples como uma Plataforma como serviço, afinal, o CaaS si
 
 
 
-### Managed Application Services
+### Managed Application as a Services
 
 
 
