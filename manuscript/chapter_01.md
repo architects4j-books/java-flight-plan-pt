@@ -20,8 +20,16 @@ A cultura DevOps resultou em diversas boas práticas como [Continuous Integratio
 
 Mas então, onde entra a [cloud](https://www.nist.gov/news-events/news/2011/10/final-version-nist-cloud-computing-definition-published)? A computação em nuvem veio e se tornou popular devido a sua facilidade em entregar o software. Ou seja, cloud não é apenas o servidor de outra pessoa, mas o problema de outra pessoa. É quando delegamos a gestão de hardware, operações ou todo o processo de desenvolvimento de software para outra empresa com o intuito principal de realizar entregas mais rápidas.
 
-
 ## Por que a adoção é crítica para o sucesso da organização?
+
+
+
+Simplificando drasticamente a definição de cloud para simplesmente: o problema de outra pessoa. Cloud é uma excelente opção para delegar todas as operações que não fazem parte do core da sua organização.
+
+
+
+Pensando tecnologia como uma escolha estratégica para um negócio e parafraseando o livro [Learning Domain-Driven Design](https://www.amazon.com/dp/1098100131). É crítico colocar um esforço naquilo que será um diferencial para o negócio ou seja o core ao invés de recursos que apoiam. 
+
 ## Entenda os diversos serviços gerenciados
 ### IaaS, PaaS,SaaS
 ### CaaS
