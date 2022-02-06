@@ -160,3 +160,4 @@ Dentro as duas derivações podemos listar:
 
 
 
+#TODO Karina deixamos esse ponto para descrever mais a frente
