@@ -142,3 +142,7 @@ Porém, ele não é simples como uma Plataforma como serviço, afinal, o CaaS si
 
 
 ### Managed Application Services
+
+
+
+Dentro do PaaS do qual o usuário final é um programador ou engenheiro de software, nós temos algumas especializações. Essas especializações de PaaS nós chamamos de Manage Application Service do quais são aplicações ou serviços que são úteis para o programador em si, por exemplo, um banco de dados que não tem utilidade para um usuário que não tem habilidade em programação como um Gmail ou Netflix.
