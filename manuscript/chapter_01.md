@@ -141,8 +141,12 @@ Porém, ele não é simples como uma Plataforma como serviço, afinal, o CaaS si
 
 
 
-### Managed Application as a Services
+### Managed Application as a Service
 
 
 
-Dentro do PaaS do qual o usuário final é um programador ou engenheiro de software, nós temos algumas especializações. Essas especializações de PaaS nós chamamos de Manage Application Service do quais são aplicações ou serviços que são úteis para o programador em si, por exemplo, um banco de dados que não tem utilidade para um usuário que não tem habilidade em programação como um Gmail ou Netflix.
+Dentro do PaaS do qual o usuário final é um programador ou engenheiro de software, nós temos algumas especializações. Essas especializações de PaaS nós chamamos de Manage Application as a Service do quais são aplicações ou serviços que são úteis para o programador em si, por exemplo, um banco de dados que não tem utilidade para um usuário que não tem habilidade em programação como um Gmail ou Netflix.
+
+Dentro as duas derivações podemos listar:
+
+* **DBaaS**: O banco de dados como serviço do qual o banco de dados é delegado e sues detalhes de operações, por exemplo, backup, atualização, número de réplica. Esse tipo de serviço vem sendo crescendo e consolidado, principalmente, nos bancos de dados NoSQL como Apache Cassandra, MongoDB, Neo4J.
