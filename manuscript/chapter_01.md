@@ -32,7 +32,39 @@ Pensando tecnologia como uma escolha estratégica para um negócio e parafrasean
 
 ![Descrição e relação da complexidade e o diferencial](images/chapter_01_01.png)
 
+Com isso em mente, faz sentido para uma organização manter e organizar o seu próprio hardware ao redor do mundo ao invés de pagar uma organização?
+
+
+
+Certamente, muitos dos leitores aqui conhecem a clássica comparação entre pizza e serviço cloud, principalmente, na perspectiva do usuário.
+
+
+
+Com isso em mente, faz sentido para uma organização manter e organizar o seu próprio hardware ao redor do mundo ao invés de pagar uma organização?
+
+
+
+Certamente, muitos dos leitores aqui conhecem a clássica comparação entre pizza e serviço cloud, principalmente, na perspectiva do usuário.
+
+
+
+Porém, focando em organização, ou seja, ao invés do usuário focaremos na pizzaria em si.
+
+
+
+No primeiro cenário, temos uma pizzaria on-premise do qual ela é responsável:
+
+- Pela fazenda, colheita de trigo, queijo
+- Logística dos materiais entre a fazenda e a pizzaria
+- A criação da pizza
+- A entrega da pizza na casa dos usuários
+
+
+
+No segundo cenário
+
 ## Entenda os diversos serviços gerenciados
+
 ### IaaS, PaaS,SaaS
 ### CaaS
 ### Managed Application Services
