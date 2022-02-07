@@ -32,6 +32,8 @@ Pensando tecnologia como uma escolha estratégica para um negócio e parafrasean
 
 ![Descrição e relação da complexidade e o diferencial](images/chapter_01_01.png)
 
+#TODO precisa atualizar essa imagem pq pertence ao livro
+
 Com isso em mente, faz sentido para uma organização manter e organizar o seu próprio hardware ao redor do mundo ao invés de pagar uma organização?
 
 
