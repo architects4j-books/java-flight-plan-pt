@@ -44,7 +44,7 @@ Com isso em mente, faz sentido para uma organização manter e organizar o seu p
 
 
 
-Certamente, muitos dos leitores aqui conhecem a clássica comparação entre pizza e serviço cloud, principalmente, na perspectiva do usuário.
+Certamente, muitos dos leitores aqui conhecem a clássica comparação entre pizza e [serviço cloud, principalmente, na perspectiva do usuário definido pelo Albert Barron](https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service/).
 
 
 
@@ -77,14 +77,87 @@ Dessa forma, todo o problema de logística, praga nas fazendas, problemas ambien
 
 
 
-Esse é a maior vantagem de computação em nuvem, poder delegar e focar mais rapidamente no que importa do seu negócio, evitar perder o time to market, receber feedback do usuário e testar hipóteses frente ao seu produto.
-
-
-
-
+Em resumo, a maior motivação de cloud é o poder de delegar tudo aquilo que não corresponde o core-business do negócio e partir para a parte mais importante do negócio. Ao tempo de não deixar a qualidade dos serviços tercerizados.
 
 ## Entenda os diversos serviços gerenciados
 
+Quando falamos de recursos e serviços de nuvem, novamente, usando o nosso princípio tudo dependerá do quê você deseja delegar de algum nível. 
+
+Como toda escolha que passa no ponto arquitetural é sempre importante que existe o trade-off. Por exemplo, ao passo que uma maior abstração nos garante um menor risco isso pode fazer com que o preço seja maior além existir um cloud vendor lock-in dentro da sua pilha tecnológica a ponto de ser difícil sair desse provider a medida que você utiliza esse recurso exclusivo.
+
+
+
+Salientando o que [Neal Ford](https://twitter.com/neal4d) disse em seu livro sobre [os fundamentos de arquitetura](https://www.amazon.com/dp/B08X8H15BW/). O papel principal de um arquiteto é entender e fazer um bom balanço dentre do possível, analisando os trade-offs.
+
+
+
+Com base nisso definimos o seguinte diagrama do qual descutiremos melhor dentro desse capítulo.
+
+#TODO KARINA PRECISAMOS FECHAR OS QUADRANTES AQUI COM UMA IMAGEM, PULAREI ESSE PONTO
+
+
+
 ### IaaS, PaaS,SaaS
+
+O primeiro ponto dentro da nossa jornada e na perspectiva de serviço dentro de cloud. Estão os três serviços mais estáveis no sentido de que não existem muitas discussões e variações sobre a sua definição. Inclusive, tendo seu conceito explorado dentro de um grande e forte instituto de normalização como o [NIST](https://www.nist.gov/).
+
+Numa leitura de abstração, podemos pensar que cada serviço trabalha na abstração de hardware, operação e o software em si.
+
+
+
+No **IaaS** ou instructure as service, estamos delegando o hardware. Em outras palavras, nós como organização não nos preocupamos com a gestão do servidor, energia, alugar um local para ter os servidores, refrigeração dos mesmos. Fazendo que o maior cliente ou público-alvo seja os engenheiros que tenham que lidar com operações como o SRE, por exemplo.
+
+
+
+No lado do **PaaS** ou platform as a service, damos um próximo passo na abstração. De modo que, além do hardware também delegamos toda a parte de operações. Com isso, o foco maior será com a criação de código e todo o restante será responsabilidade de outra pessoa. No geral, o público-alvo ou os seus maiores usuários são desenvolvedores ou engenheiros focados na entrega de código em si.
+
+
+
+No último e no maior passo de abração de nuvem como serviço temos **SaaS** ou software as a service. É a última camada de abstração do qual além de se delegar as duas camadas anteriores, hardware e operações, também se delega a codificação também. De modo que o público-alvo são usuários que não precisam ter nenhum conhecimento de prévio de computação.
+
+
+
+Recapitulando:
+
+| Tipo de serviço | O problema de outra pessoa                    | Exemplos                                                    |
+| --------------- | --------------------------------------------- | ----------------------------------------------------------- |
+| IaaS            | hardware                                      | Configuração de servidor, energia elétrica, refrigeração    |
+| PaaS            | O anterior além dos  os detalhes de operações | Atualização de sistema operacional, firewall, backup        |
+| SaaS            | Todos os anterioes além do software           | Codificação, escolha de linguagem, definição de arquitetura |
+
+
+
 ### CaaS
-### Managed Application Services
+
+Na última sessão demonstramos os três tipos de serviços que são declarados os mais maduros ou estáveis. Isso quer dizer que, indiferente da fonte que se utilize as definições básicas tendem a ser os mesmos. Os próximos tipos de serviços podemos considerar como uma zona cinzenta ou imatura, isso quer dizer que podem variar com a literatura, empresa ou se tornar desatualizado com o tempo.
+
+
+
+Nessa primeira jornada de tipos de serviços existe o CaaS ou Contaniner as a service no qual se encontro no meio de IaaS e do PaaS. Ou seja, dado o IaaS ele facilita as aplicações e serviços a partir dos containers. 
+
+
+
+Porém, ele não é simples como uma Plataforma como serviço, afinal, o CaaS simplifica e facilita, porém, não anula em sua totalidade os serviços ou a gestão de operações.
+
+
+
+### Managed Application Service
+
+
+
+Dentro do PaaS do qual o usuário final é um programador ou engenheiro de software, nós temos algumas especializações. Essas especializações de PaaS nós chamamos de Manage Application Service do quais são aplicações ou serviços que são úteis para o programador em si, por exemplo, um banco de dados que não tem utilidade para um usuário que não tem habilidade em programação como um Gmail ou Netflix.
+
+Dentro as duas derivações podemos listar:
+
+* **DBaaS**: O banco de dados como serviço do qual o banco de dados é delegado e sues detalhes de operações, por exemplo, backup, atualização, número de réplica. Esse tipo de serviço vem sendo crescendo e consolidado, principalmente, nos bancos de dados NoSQL como Apache Cassandra, MongoDB, Neo4J.
+* **Decision and Processes as a Service**:
+* **Managed event Streaming**:
+* **Managed integration**: 
+
+
+
+#### E o Serverless?
+
+
+
+#TODO Karina deixamos esse ponto para descrever mais a frente
