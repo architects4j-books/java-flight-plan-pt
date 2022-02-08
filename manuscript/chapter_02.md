@@ -32,7 +32,11 @@ Assim, temos milhares de definições. Para não sair do contexto e objetivo do 
 >
 > — [Otávio Santana](https://twitter.com/otaviojava)
 
+
+
 Em outras palavras, o termo cloud-native se tornou um mantra tecnológico se relacional ao ideal de uma aplicação para explorar todo o potencial do modelo computacional. Porém, dificilmente teremos uma fórmula mágica ou uma definição fechada para todos os tipos de aplicações possíveis.
+
+
 
 ## Java e sua jornada de mais de vinte e cinco anos
 
