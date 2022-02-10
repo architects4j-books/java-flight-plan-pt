@@ -52,7 +52,8 @@ Referências:
 - Até os menores ajustes para otimizar um plano de vôo podem resultar em economias substanciais para a frota
 - Com o flightplan pode-se garantir que a aeronave cumpra com todos os regulamentos operacionais necessários para aquele vôo.
 - É devido às informações contidas no plano que a tripulação do vôo é capaz de conduz o vôo de maneira segura;
-- Existem sistemas que calculam e geram automaticamente flightplans, e são usados a décadas. Ainda assim, busca-se um ajuste fino, que resulta não só em economia de combustível, mas é capaz de reduzir a emissão de dióxido de carbono (CO2). Note que a queima de ~3.8 litros de combustível (equivalente a um galão em medida norte americana, U.S. gallon) emite mais de 9kg (20 libras) de CO2 no meio ambiente.      
+- Existem sistemas que calculam e geram automaticamente flightplans, e são usados a décadas. Ainda assim, busca-se um ajuste fino, que resulta não só em economia de combustível, mas é capaz de reduzir a emissão de dióxido de carbono (CO2). Note que a queima de ~3.8 litros de combustível (equivalente a um galão em medida norte americana, U.S. gallon) emite mais de 9kg (20 libras) de CO2 no meio ambiente.     
+- https://get.oreilly.com/ind_the-cloud-in-2021-adoption-continues.html
 
 #### Ex. de informações contidas em um plano de vôo:
   - 
