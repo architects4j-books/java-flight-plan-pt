@@ -10,7 +10,11 @@ Pois bem, este capítulo apresenta ao leitor ao contexto que circunda o período
 
 
 
-Houve um tempo na história da engenharia de software e sua metodologia  que de um lado existia grande demanda na aceleração do ciclo de vida uma aplicação. Do outro, as aplicações que se tornavam cada vez mais se tornam complexas, de difícil manutenção e alta demanda de especialistas envolvidos. 
+Na perspectiva de investimento, sempre vimos a necessidade de fazer com o que a aplicação desenvolvida chegue o mais rápido possível na mão do usuário e investidores. Seja para justificar o custo, seja para garantir que o software atenderá a real necessidade do usuário.
+
+
+
+Isso vem tornando cada vez mais evidente, principalmente, dado que complexidade e os detalhes dentro um produto/projeto tende a crescer e se integrar mais, tornando o desenvolvimento cada vez mais caro com o passar do tempo.
 
 Aos poucos o modelo cascasta passa a dar espaço a modelos focados em entregas menores e com flexibilidade para mudanças. 
 
