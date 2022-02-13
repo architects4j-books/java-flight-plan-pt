@@ -60,21 +60,15 @@ Vamos entender melhor o contexto com a clássica comparação [de Albert Barron]
 
 Porém, focando em organização, ou seja, ao invés do usuário focaremos na pizzaria em si.
 
-No primeiro cenário, temos uma pizzaria do qual ela é responsável por todo o processo:
-
-- Pela fazenda, colheita de trigo, queijo
-- Logística dos materiais entre a fazenda e a pizzaria
-- A criação da pizza (o core do meu negócio)
-- A entrega da pizza na casa dos usuários
+No primeiro cenário, temos uma pizzaria do qual ela é responsável por todo o processo, ou seja, desde a fazenda com a pecuária e a agricultura (se preocupando com o trigo, leite e o queijo) até a entrega da pizza.
 
 Esse primeiro também é o pior cenário ao negócio, uma vez que como pizzaria se gasta muita carga cognitiva em diversos processos além da parte mais importante que é a confecção da pizza. 
 
 Esse ponto se torna ainda mais explícito para pequenas empresas ou com recursos limitados, afinal, terá que gastar os poucos recursos em diversos fatores além do seu diferencial como pizzaria.
 
-Caminhando para o outro extremo, do qual essa mesma pizzaria é responsável apenas pela criação da pizza e todo o restante é terceirizado. Garantimos um maior investimento ou foco no que é importante para a organização. 
+Caminhando para o outro extremo, do qual essa mesma pizzaria é responsável apenas pelo seu core-business o restante é terceirizado.  
 
-Dessa forma, todo o problema de logística, praga nas fazendas, problemas ambientais, dentre outros fatores não impactarão diretamente o seu negócio.
-
+Dessa forma, todo o problema de logística, praga nas fazendas, problemas ambientais, dentre outros fatores não impactarão diretamente o seu negócio sem falar do foco maior no diferencial.
 
 Em resumo, a maior motivação para se adotar serviços de cloud é a possibilidade de se delegar tudo aquilo que não corresponde ao core-business e dar o focar na parte mais importante do negócio. 
 
