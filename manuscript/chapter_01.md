@@ -8,7 +8,7 @@ Pois bem, este capítulo apresenta ao leitor ao contexto que circunda o período
 
 ## A origem
 
-a #TODO OTAVIO Revisa esse paragrafo com carinho, eu acho que não consegui captar e transcrever o seu ponto.
+
 
 Houve um tempo na história da engenharia de software e sua metodologia  que de um lado existia grande demanda na aceleração do ciclo de vida uma aplicação. Do outro, as aplicações que se tornavam cada vez mais se tornam complexas, de difícil manutenção e alta demanda de especialistas envolvidos. 
 
