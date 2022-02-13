@@ -56,8 +56,7 @@ Diante destas possibilidades, o que faria sentido para uma organização?  Mante
 
 Vamos entender melhor o contexto com a clássica comparação [de Albert Barron] entre pizzas e serviços de cloud, por uma  perspectiva de usuário. (https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service/).
 
-xxxxxxxxxx 
-a #TODO #Otavio, será que consegue dar um tapa nesse trecho? Acho que poderia até mesmo ser um pouquinho mais sucinto. 
+
 
 Porém, focando em organização, ou seja, ao invés do usuário focaremos na pizzaria em si.
 
@@ -75,7 +74,7 @@ Esse ponto se torna ainda mais explícito para pequenas empresas ou com recursos
 Caminhando para o outro extremo, do qual essa mesma pizzaria é responsável apenas pela criação da pizza e todo o restante é terceirizado. Garantimos um maior investimento ou foco no que é importante para a organização. 
 
 Dessa forma, todo o problema de logística, praga nas fazendas, problemas ambientais, dentre outros fatores não impactarão diretamente o seu negócio.
-xxxxxxxxx
+
 
 Em resumo, a maior motivação para se adotar serviços de cloud é a possibilidade de se delegar tudo aquilo que não corresponde ao core-business e dar o focar na parte mais importante do negócio. 
 
