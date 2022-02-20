@@ -138,8 +138,8 @@ Assim como no mundo Java, o mundo cloud também tem o seu tipo de encapsulamento
 
 
 
- : Private cloud - #TODO Otavio o que é
- : Public cloud - #TODO Otavio o que é
+* **Private cloud**: Uma nuvem privada é o serviço de nuvem que não é compartilhada com nenhuma outra organização. Assim, os usuários da cloud privada é a própria organização em si.
+* **Public cloud:** Na outra mão, existe a nuvem pública que é o serviço compartilhado entre diversas organizações ou clientes. Isso não quer dizer que os serviços e os dados são compartilhados entre os clientes, no geral, não são.
 
 Hybrid cloud 
 
