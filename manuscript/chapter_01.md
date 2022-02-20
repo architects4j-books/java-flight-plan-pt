@@ -129,3 +129,18 @@ Dentro as duas derivações podemos listar:
 Tipo de arquitetura ver CNCF: https://gw.alipayobjects.com/os/basement_prod/24ec4498-71d4-4a60-b785-fa530456c65b.pdf
 
 #TODO Karina deixamos esse ponto para descrever mais a frente
+
+
+------ 
+## Tipos de cloud
+
+Private vs Public
+
+ : Private cloud - #TODO Otavio o que é
+ : Public cloud - #TODO Otavio o que é
+
+Hybrid cloud 
+
+: é uso de private e public cloud, onde parte dos serviços não são ".com", ou seja, não estão expostos diretamente a internet mas integram-se com outros serviços de cloud pública.
+Multi cloud
+:  é o uso de diferentes cloud vendors para evitar vendor lock-in e alta disponibilidade.  
