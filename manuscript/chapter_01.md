@@ -131,10 +131,12 @@ Tipo de arquitetura ver CNCF: https://gw.alipayobjects.com/os/basement_prod/24ec
 #TODO Karina deixamos esse ponto para descrever mais a frente
 
 
------- 
+------
 ## Tipos de cloud
 
-Private vs Public
+Assim como no mundo Java, o mundo cloud também tem o seu tipo de encapsulamento. Esse tipo de encapsulamento está muito relacionado ao quanto o serviço é compartilhado para outras empresas e não está relacionado a acesso. Sempre vale salientar que a segurança da informação é um dos pontos mais importantes dentro do ambiente de nuvem.
+
+
 
  : Private cloud - #TODO Otavio o que é
  : Public cloud - #TODO Otavio o que é
