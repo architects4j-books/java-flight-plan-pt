@@ -126,9 +126,17 @@ Dentro as duas derivações podemos listar:
 
 #### E o Serverless?
 
-Tipo de arquitetura ver CNCF: https://gw.alipayobjects.com/os/basement_prod/24ec4498-71d4-4a60-b785-fa530456c65b.pdf
+O serviço de [serverless](https://gw.alipayobjects.com/os/basement_prod/24ec4498-71d4-4a60-b785-fa530456c65b.pdf) está relacionado a um tipo de arquitetura/serviço que traz como conceito executar uma aplicação que não requer um serviço gerenciado. O que tende a ser bem semelhante ao PaaS, porém, sua maior característica está relacionado a uma maior elasticidade do qual uma aplicação é acionada, escalada e encerrada e o usuário é apenas pago por esse momento.
 
-#TODO Karina deixamos esse ponto para descrever mais a frente
+ 
+
+No geral, vendors serverless suportam um ou os dois tipos:
+
+ 
+
+* **Function as a Service (FaaS)**: um tipo de serviço que no geral está relacionado com uma arquitetura event-driven. Os usuários, desenvolvedores, executa uma instrução ou função que é iniciada a partir de algum tipo de evento. Esse código escala sem nenhuma intervenção da infraestrutura.
+
+* **Backend-as-a-Service (BaaS)**: são instruções de terceiros utilizadas a partir de uma API. Nesse momento o código não é do usuário, desenvolvedor, ele consome esse tipo de recurso a partir de uma interface, por exemplo, HTTP.
 
 
 ------
