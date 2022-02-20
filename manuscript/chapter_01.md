@@ -139,11 +139,20 @@ Assim como no mundo Java, o mundo cloud também tem o seu tipo de encapsulamento
 
 
 * **Private cloud**: Uma nuvem privada é o serviço de nuvem que não é compartilhada com nenhuma outra organização. Assim, os usuários da cloud privada é a própria organização em si. A maior vantagem é ter um serviço feito sob medida para a sua organização como recursos, softwares, processos, etc. No entanto, existe o problema de custo de manutenção e a evolução dessa nuvem.
-* **Public cloud:** Na outra mão, existe a nuvem pública que é o serviço compartilhado entre diversas organizações ou clientes. Isso não quer dizer que os serviços e os dados são compartilhados entre os clientes, no geral, não são. A maior vantagem é que a organização não se preocupa com a manutenção, tende a possui diversos sabores de soluções, no entanto, não necessariamente faz sentido para a organização usar-lhos seja por compliance além de adaptar esse tipo de serviço para a realidade da organização de alguma forma.
+* **Public cloud:** Na outra mão, existe a nuvem pública que é o serviço compartilhado entre diversas organizações ou clientes. Isso não quer dizer que os serviços e os dados são compartilhados entre os clientes, no geral, não são. A maior vantagem é que a organização não se preocupa com a manutenção, tende a possui diversos sabores de soluções, no entanto, não necessariamente faz sentido para a organização usar-lhos seja por compliance além de adaptar esse tipo de serviço para a realidade da organização de alguma forma. Sem falar da possibilidade de ficar preso em um único vendor de nuvem.
 * **Cloud hibrida:** Em alguns cenários é necessário combinar uma nuvem específica da minha organização com recursos e padrões já existentes no mercado. A junção dos dois é conhecido como nuvem híbrida, quando você junta o melhor e o pior do mundo em um único local.
 
-Hybrid cloud 
 
-: é uso de private e public cloud, onde parte dos serviços não são ".com", ou seja, não estão expostos diretamente a internet mas integram-se com outros serviços de cloud pública.
-Multi cloud
-:  é o uso de diferentes cloud vendors para evitar vendor lock-in e alta disponibilidade.  
+
+### Multi cloud
+
+
+
+Como já mencionado, ao utilizar uma nuvem pública existe sempre a armadilha de ficar preso em um único vendor além da falha. Afinal, por mais maduro que seja o serviço não existe garantia em 100%. 
+
+ 
+
+Uma das formas de reduzir as falhas como negação de serviço ou ser refém do preço de um único vendor é conseguir rodar a mesma aplicação em diversas organizações de nuvem.
+
+Esse conceito de multi-cloud é muitas vezes citado como o estado da arte para uma arquitetura em nuvem, porém, traz diversos desafios e complexidades em  lidar com redundâncias além da parte de contabilidade.
+
