@@ -138,8 +138,9 @@ Assim como no mundo Java, o mundo cloud também tem o seu tipo de encapsulamento
 
 
 
-* **Private cloud**: Uma nuvem privada é o serviço de nuvem que não é compartilhada com nenhuma outra organização. Assim, os usuários da cloud privada é a própria organização em si.
-* **Public cloud:** Na outra mão, existe a nuvem pública que é o serviço compartilhado entre diversas organizações ou clientes. Isso não quer dizer que os serviços e os dados são compartilhados entre os clientes, no geral, não são.
+* **Private cloud**: Uma nuvem privada é o serviço de nuvem que não é compartilhada com nenhuma outra organização. Assim, os usuários da cloud privada é a própria organização em si. A maior vantagem é ter um serviço feito sob medida para a sua organização como recursos, softwares, processos, etc. No entanto, existe o problema de custo de manutenção e a evolução dessa nuvem.
+* **Public cloud:** Na outra mão, existe a nuvem pública que é o serviço compartilhado entre diversas organizações ou clientes. Isso não quer dizer que os serviços e os dados são compartilhados entre os clientes, no geral, não são. A maior vantagem é que a organização não se preocupa com a manutenção, tende a possui diversos sabores de soluções, no entanto, não necessariamente faz sentido para a organização usar-lhos seja por compliance além de adaptar esse tipo de serviço para a realidade da organização de alguma forma.
+* **Cloud hibrida:** Em alguns cenários é necessário combinar uma nuvem específica da minha organização com recursos e padrões já existentes no mercado. A junção dos dois é conhecido como nuvem híbrida, quando você junta o melhor e o pior do mundo em um único local.
 
 Hybrid cloud 
 
