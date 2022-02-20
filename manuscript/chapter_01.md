@@ -139,6 +139,14 @@ No geral, vendors serverless suportam um ou os dois tipos:
 * **Backend-as-a-Service (BaaS)**: são instruções de terceiros utilizadas a partir de uma API. Nesse momento o código não é do usuário, desenvolvedor, ele consome esse tipo de recurso a partir de uma interface, por exemplo, HTTP.
 
 
+
+Pensado numa relação de complexidade e foco no negócio, podemos pensar em uma analogia com um altímetro. Do qual, quanto mais próximo da nuvem ou de recursos gerenciados se tem uma maior tendência do foco ir para o negócio, porém, menos controle e detalhes da execução dessa pilha.
+
+
+
+<PENSEI NO ALTIMÉTRO AQUI
+
+
 ------
 ## Tipos de cloud
 
