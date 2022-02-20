@@ -43,6 +43,14 @@ Referências:
   * 2020 - Não encontrei a lista como as anteriores
   * https://www.gartner.com/en/documents/4003590-hype-cycle-for-cloud-computing-2021
 
+Após aproximadamente três anos após o início da pandemia global de covid-19^1^, as mudanças no mercado consumidor refletiram diretamente na utilização de serviços de cloud. Pesquisa^2^ realizada em 2021 aponta que, dentre os 750 entrevistados, 99 por cento destes utilizam serviços de cloud pública ou privada. Ainda nesta pesquisa, dentre diversos desafios de uma migração de aplicação on-premise para a cloud, as três principais dificuldades enfrentadas são:
+- O mapeamento de dependências da aplicação;
+- Avaliação de viabilidade técnica da migração;
+- Validação da comparação de custos entre se manter a aplicação on-premise ou em cloud.
+
+Profissionais do mundo Java devem ter em mente a inevitável missão não de lidar com novos serviços e aplicações que nascerão cloud-native, mas também com os legados. Além disto, devem se manter munidos de conhecimento sobre o mais recente ecossistema Java cloud-native para que esteja preparado para propor arquiteturas modernas.
+
+
 ### Brainstorm sobre flightplan
 
 #### Geral:
@@ -60,7 +68,9 @@ Referências:
 
 
 
-
+A operação segura da aeronave depende em alto grau do desempenho satisfatório dos sistemas de
+comunicação e navegação, que por seu turno, está diretamente ligado à perícia daqueles que fazem a sua
+manutenção.
 
 
 1. Boeing, effective flight plans can help airlines economize: https://www.boeing.com/commercial/aeromagazine/articles/qtr_03_09/article_08_1.html

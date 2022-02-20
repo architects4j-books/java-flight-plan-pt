@@ -1,49 +1,113 @@
 # WIP Plano de Vôo do Java: rumo à cloud  
 
-### Abra suas asas, mas tenha seu plano de vôo
+Empresas que desejam iniciar ou evoluir sua adoção de ambientes de cloud passam por um processo de identificação do cenário atual e definição do cenário desejado. 
 
-Cerca de três anos após o início da pandemia global de covid-19^1^, as mudanças no mercado consumidor refletiram diretamente na utilização de serviços de cloud. Pesquisas^2^ realizadas em 2021 apontam que, dentre uma diversa amostra 750 entrevistados, 99 por cento destes utilizam serviços de cloud pública ou privada. Dentre diversos desafios de uma migração de aplicação on-premise, as três principais dificuldades enfrentadas são o mapeamento de dependências da aplicação, avaliar a viabilidade técnica da migração, e se validar os custos de se ter a aplicação on-premise ou na cloud. 
+> *"Para aquele que não sabe onde quer ir, qualquer caminho serve."*
+> Tradução livre inspirada em Lewis Carroll e sua obra "Alice no país das maravilhas".
 
-Diante deste cenário, percebemos uma inevitável jornada rumo à nuvem que traz consigo decisões complexas a serem tomadas e ambiciosos objetivos de negócio. Profissionais do mundo Java devem ter em mente a inevitável missão com aplicações e serviços legados. Além disto, devem se manter munidos de conhecimento sobre o mais recente ecossistema Java cloud-native para que esteja preparado para propor arquiteturas modernas.
+Nesta jornada, podemos imaginar situações onde:
+a) Deu-se um passo longo demais, além do que o time podia caminhar: falha;  
+b) Deu-se um passo menor que conseguiria-se: sucesso, mas baixo do aproveitamento de potencial;
+c) Deu-se um passo na distância correta: atingiu-se o objetivo.
 
-A> _"Para aquele que não sabe onde quer ir, qualquer caminho serve."_ 
-A> - Tradução livre inspirada em Lewis Carroll e sua obra "Alice no país das maravilhas".
+Nesta transformação são necessárias modernização os mais diversos setores — organização de times, metódos de gerenciamento de projetos, cultura de deploy, design e arquitetura das aplicações, infraestrutura, segurança, dentre outros. Considerando tamanho impacto e esforço, é essencial não apenas definir **para onde ir**, mas entender **onde se está**, para só então descobrir **como chegar lá**. Em outras palavras:
 
-## Prática: 
+> **Onde ir?**: objetivo da jornada, resulta em maturidade na adoção, expansão e práticas acerca de ambientes de cloud e suas aplicações;
+> **Onde se está?**: Panorama organizacional de práticas e setores envolvidos com as aplicações que fazem parte do escopo da modernização;
+> **Como chegar lá?**: Definição e execução de processos otimizados para cada setor levando em consideração a origem e destino.  
 
-Nesta prática, imagine que sua organização está carente de mão de obra, e que você foi o(a) escolhido(a) para planejar e garantir o sucesso da execução de um processo de migração para nuvem.  da sua organização  É hora de exercitar idéia da jornada para a cloud. você buscará soluções para um cenário que você esteja imerso ou tenha participado.  trabalhará possibilidades e entenderá 
+Então afinal de contas, como responder estas perguntas? 
 
-Para iniciar esta primeira prática:
-- Confie no conhecimento que já possui, por hora será suficiente. 
-- Considere como o contexto da atividade, os potenciais — ou se houverem, os reais — desafios e objetivos da migração para a nuvem. 
-- Escolha um serviço, aplicação, grupo de serviços ou até mesmo todo o parque tecnológico organizacional. O que for mais próximo da sua realidade.  
+Já que nosso plano é ir às nuvens, de forma análoga, podemos aplicar uma prática fundamental para um vôo seguro e fluxo aéreo controlado: o **plano de vôo**. 
 
-Com isto, faça um mapeamento do seu cenário com base nestas perguntas:  
-1. Quantos dos seus serviços e/ou aplicações são legados   
-2. Qual a infraestrutura onde estão implantadas esta(s) apps e/ou serviço(s)?
+Vejamos caracterísicas de um plano de vôo no mundo da aviação:
+- É um dos processos mais importantes de um vôo comercial;
+- Sem ele é impossível a existência do controle de tráfego aéreo;
+- Mesmo seus pequenos ajustes de otimização geram economia significativa para frota e positivo impacto ambiental (redução de emissão de dióxido de carbono (CO2));
+- Aumenta as chances de que a aeronave cumpra com todos os regulamentos operacionais necessários para aquele vôo.
+- Contém informações essenciais para que a tripulação do vôo possa conduzir de maneira segura;
+- Geralmente é automatizado, monitorado e otimizado por sistemas que calculam e geram planos de vôo automaticamente.
 
-_Exemplos: Infraestrutura on-premise, com ou sem máquinas virtuais? São executadas em containers? Estão em algum provedor de cloud?_ 
-2. 
-3. O quão complexo é  correção ou nova feature é solicitada em serviço(s) existentes, o quão complexo é implementar a manutenção do código e potenciais testes unitários?
+I> **Você sabia?**
+I>
+I> A queima de ~3.8 litros de combustível (equivalente a um galão em medida norte americana, U.S. gallon) emite mais de 9kg (20 libras) de CO2 no meio ambiente.
 
+Conectando estas idéias ao nosso contexto de aplicações Java e mundo da cloud, surgiu a estratégia: "Plano de Vôo do Java" (em inglês, "Java Flightplan"). De maneira geral:
 
-2. Quais desta(s) aplicações e/ou serviço(s) estão prontas para rodar  
- Se estão, quais os modelos de computação em nuvem utilizados, IaaS, PaaS, SaaS ou outros?
-4. O quão 
+{aside}
+  C> ### O Plano de Vôo é
+ 
+Um modelo de adoção de ambientes de cloud, uma definição estratégica otimizada de processos acerca do vôo (transformação digital) para a cloud. Define uma rota com origem, destino, e informações que permitem que a tripulação (equipes envolvidas) execute de segura e eficiente.
+{/aside}
 
-Parabéns a você  que refrescamos fundamentos sobre cloud e aplicações cloud-native,  obter resultados de forma eficiente é iniciar seu planejamento de jornada identificando **a sua situação atual** e **seu objetivo**, e com isto em mãos, conseguiremos definir **qual a jornada a seguir**.
+Este modelo de adoção da cloud é como um guia. Nele o leitor pode aprender:
+* Como mapear o cenário técnico e os processos organizacionais atuais;
+* Pontos de atenção durante o mapeamento;
+* O que e quais são serviços de cloud; 
+* Sobre as novidades do ecossistema Java que possibilitam criação de apps Java verdadeiramente cloud-native;
+* A respeito dos níveis de adoção, desde o zero até o estado da arte;
+* A monitorar e mensurar custos e pontos de melhoria;  
 
-Ao se identificar o status atual, este é um possível (e recorrente) cenário:
-> "Hoje, temos nossas aplicações Java em produção rodando em nossas máquinas virtuais. Nossos deploys são agendados e precisamos coordenar o time para a execução. Temos times grandes com profissionais em todas as áreas. Temos gastos constante com manutenção de hardware."
+## Como funciona o Plano de Vôo
 
-E onde pretendes chegar?
-> "Nosso objetivo é reduzir os custos mas continuar a fornecer um serviço com alta disponibilidade ao nosso cliente final. Precisamos de velocidade na mudança de regras na aplicação - solicitações de mudanças devem acontecer em minutos independente do dia. Eventualmente temos picos de acessos, a aplicação deve se ajustar automaticamente a este aumento de usuários."
+O modelo Plano de Vôo para a cloud é composta por [três abordagens](#chap03-figure02): 
+- Definição de estratégia (Origem/Destino)
+- Detalhamento do plano (Como chegar lá)
+  : {#chap03-figure02}
+  : ![Plano de Vôo: os níveis de maturidade](images/chapter_03_02.png)
 
-Como chegamos lá?
+### A estratégia
 
-## Identifique onde estamos e para onde vamos com o [#ToDo nome]	7
-## Overview da jornada "Glory of Cloud"
+A adoção da cloud é composta por uma ou mais iterações, onde iteração passa por três fases:
 
+Avaliação e Mapeamento 
+
+ : Busca descrever o cenário técnico atual em que se encontra o ambiente e a organização, incluindo detalhes não apenas sobre as tecnologias utilizadas mas também aponta cultura, métodologias de gerenciamento de projetos e seu ciclo de vida. 
+ 
+Definição de objetivos
+
+ : Definem-se os objetivos da iteração. Nesta fase, utilizam-se os níveis de maturidade representados na [figura 01](#chap03-figure01)
+
+ : {#chap03-figure01}
+ : ![Plano de Vôo: os níveis de maturidade](images/chapter_03_01.png)
+
+ ,#TODO [add informacao sobre os niveis]
+
+I> O Plano de Vôo *não* é uma definição de modelo de maturidade de adoção de ambientes de cloud. Entenda o motivo desta afirmação e aprenda mais sobre modelos de maturidade no [Apêndice A - Modelos de Maturidade](#apendice-a).
+
+Execução do projeto
+
+ : .#TODO
+
+Monitoramento e otimização
+ 
+ : .#TODO
+
+Antes de passarmos para o próximo capítulo, que tal fazer uma rápida prática?
+
+## Abra suas asas, mas tenha seu plano de vôo
+
+Nesta prática considere que somos consultores e fomos convidados pelo cinema Acme Studios a auxiliar na definição da estratégia a ser seguida — o **Plano de Vôo**. Neste primeiro momento, devemos prover uma análise inicial de como seria o projeto de modernização da Acme Studios.
+
+1. Nosso primeiro passo é identificar **onde estamos**. Em uma conversa, o cliente nos reporta:
+
+    > *"Estamos no mercado a vinte anos. Novos serviços estão por vir, mas precisamos manter também aplicações já em produção, como por exemplo a nossa boa e velha aplicação de venda de ingressos. Tudo isso roda em máquinas virtuais em nosso próprio datacenter. 
+   > A maioria de nossas aplicações são Java e os deploys são manuais — requerem agendamento prévio, coordenação e presença dos times que acompanharão a execução. Formamos times grandes e separados com base em função, por exemplo, equipes de desenvolvimento, arquitetura, infraestrutura, etc. 
+   > Considerando essas informações, como usar serviços de cloud a nosso favor?"*
+
+   Identificamos aqui o mais básico cenário - nenhuma adoção de soluções de cloud. O ecossistema, baseado em Java, é constituído de aplicações novas e legadas. O ciclo de vida da aplicação é longo e a manutenção é custosa. A estrutura organizacional não permite efetivas práticas ágeis.   
+
+2. Descobrimos onde estamos, agora precisamos definir para **onde vamos**. 
+
+    Q> Mas espere um pouco. Este cliente é ambicioso, talvez ele tenha expectativas acima do que pode realizar. Se este for o caso, como deveríamos definir para onde vamos?
+    Q> a) O vôo deve ter como objetivo final atender aquilo que cliente almeja.
+    Q> b) O destino deve ser rumo ao próximo passo mais eficiente a partir desta origem, que pode diferir das expectativas do cliente;
+
+    Se você escolheu a segunda opção b, acertou! É esperado que corporações tenham uma diretiva ambiciosa de modernização. Nestes casos, lembre-se que vôos podem ser diretos ou com conexões: um vôo pode levar diretamente ao destino, ou pode precisar de algumas pernas de vôo antes de chegar lá. Em outras palavras, projetos complexos requerem múltiplas repetições do processo de modernização.  
+
+3. Por fim vamos definir, de forma geral, **como chegaremos lá**:
+
+ . #TODO
 
 1. OMS declara pandemia de Covid-19: https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
 2. State of the cloud report, por Flexera: https://info.flexera.com/CM-REPORT-State-of-the-Cloud
