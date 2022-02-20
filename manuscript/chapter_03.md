@@ -108,6 +108,3 @@ Nesta prática considere que somos consultores e fomos convidados pelo cinema Ac
 3. Por fim vamos definir, de forma geral, **como chegaremos lá**:
 
  . #TODO
-
-1. OMS declara pandemia de Covid-19: https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
-2. State of the cloud report, por Flexera: https://info.flexera.com/CM-REPORT-State-of-the-Cloud

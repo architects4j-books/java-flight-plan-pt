@@ -74,5 +74,7 @@ manutenção.
 
 
 1. Boeing, effective flight plans can help airlines economize: https://www.boeing.com/commercial/aeromagazine/articles/qtr_03_09/article_08_1.html
- 
-- 
+
+
+1. OMS declara pandemia de Covid-19: https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
+2. State of the cloud report, por Flexera: https://info.flexera.com/CM-REPORT-State-of-the-Cloud
