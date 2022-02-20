@@ -119,12 +119,13 @@ Dentro do PaaS do qual o usuário final é um programador ou engenheiro de softw
 
 Dentro as duas derivações podemos listar:
 
-* **DBaaS**: O banco de dados como serviço do qual o banco de dados é delegado e sues detalhes de operações, por exemplo, backup, atualização, número de réplica. Esse tipo de serviço vem sendo crescendo e consolidado, principalmente, nos bancos de dados NoSQL como Apache Cassandra, MongoDB, Neo4J.
-* **Decision and Processes as a Service**:
-* **Managed event Streaming**:
-* **Managed integration**:
+* DBaaS
+* Decision and Processes as a Service
+* Managed event Streaming
+* Managed integration
 
 #### E o Serverless?
 
+Tipo de arquitetura ver CNCF: https://gw.alipayobjects.com/os/basement_prod/24ec4498-71d4-4a60-b785-fa530456c65b.pdf
 
 #TODO Karina deixamos esse ponto para descrever mais a frente
