@@ -64,9 +64,7 @@ Profissionais do mundo Java devem ter em mente a inevitável missão não de lid
 - https://get.oreilly.com/ind_the-cloud-in-2021-adoption-continues.html
 
 #### Ex. de informações contidas em um plano de vôo:
-  - 
-
-
+  -
 
 A operação segura da aeronave depende em alto grau do desempenho satisfatório dos sistemas de
 comunicação e navegação, que por seu turno, está diretamente ligado à perícia daqueles que fazem a sua

@@ -58,7 +58,7 @@ O modelo Plano de Vôo para a cloud é composta por [três abordagens](#chap03-f
 
 ### A estratégia
 
-A adoção da cloud é composta por uma ou mais iterações, onde iteração passa por três fases:
+A adoção da cloud é composta por uma ou mais iterações, onde iteração passa por quatro fases:
 
 Avaliação e Mapeamento 
 
