@@ -172,3 +172,7 @@ Uma das formas de reduzir as falhas como negação de serviço ou ser refém do 
 
 Esse conceito de multi-cloud é muitas vezes citado como o estado da arte para uma arquitetura em nuvem, porém, traz diversos desafios e complexidades em  lidar com redundâncias além da parte de contabilidade.
 
+
+
+## Conslusão
+
