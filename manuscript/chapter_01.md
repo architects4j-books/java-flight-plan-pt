@@ -176,3 +176,8 @@ Esse conceito de multi-cloud é muitas vezes citado como o estado da arte para u
 
 ## Conslusão
 
+
+
+Apesar de não uma relação direta entre cloud e agil é impressionante como os dois se combinam e auxiliam em uma entrega constante, continua e com confiança de um software. Com os anos, a industria entendeu a importância da integração entre times além de delegar ou abstrair pontos que não representam o core da empresa.
+
+Essa ideia é bastante análoga ao minimalismo defendida pelo Gustavo Cerbasi que na sua se traduz em ter apenas as coisas necessárias e ter um foco no que é importante para você. No ambiente de cloud, a sua organização pode abstrair tudo que é “commodity tecnológico” e focar no que é diferencial para a sua organização.
