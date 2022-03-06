@@ -2,6 +2,8 @@
 
 Empresas que desejam iniciar ou evoluir sua adoção de ambientes de cloud passam por um processo de identificação do cenário atual e definição do cenário desejado. 
 
+<!-- Senti falta de uma introducao mais detalhada e motivada, afinal, qual a motivacao da jornada. Pq eu, leitor, deveria fazer? -->?
+
 > *"Para aquele que não sabe onde quer ir, qualquer caminho serve."*
 > Tradução livre inspirada em Lewis Carroll e sua obra "Alice no país das maravilhas".
 
@@ -36,7 +38,7 @@ Conectando estas idéias ao nosso contexto de aplicações Java e mundo da cloud
 
 {aside}
   C> ### O Plano de Vôo é
- 
+
 Um modelo de adoção de ambientes de cloud, uma definição estratégica otimizada de processos acerca do vôo (transformação digital) para a cloud. Define uma rota com origem, destino, e informações que permitem que a tripulação (equipes envolvidas) execute de segura e eficiente.
 {/aside}
 
@@ -63,7 +65,7 @@ A adoção da cloud é composta por uma ou mais iterações, onde iteração pas
 Avaliação e Mapeamento 
 
  : Busca descrever o cenário técnico atual em que se encontra o ambiente e a organização, incluindo detalhes não apenas sobre as tecnologias utilizadas mas também aponta cultura, métodologias de gerenciamento de projetos e seu ciclo de vida. 
- 
+
 Definição de objetivos
 
  : Definem-se os objetivos da iteração. Nesta fase, utilizam-se os níveis de maturidade representados na [figura 01](#chap03-figure01)
@@ -80,7 +82,7 @@ Execução do projeto
  : .#TODO
 
 Monitoramento e otimização
- 
+
  : .#TODO
 
 Antes de passarmos para o próximo capítulo, que tal fazer uma rápida prática?
