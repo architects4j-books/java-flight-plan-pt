@@ -105,7 +105,11 @@ Nesta prática considere que somos consultores e fomos convidados pelo cinema Ac
     Q> a) O vôo deve ter como objetivo final atender aquilo que cliente almeja.
     Q> b) O destino deve ser rumo ao próximo passo mais eficiente a partir desta origem, que pode diferir das expectativas do cliente;
 
-    Se você escolheu a segunda opção b, acertou! É esperado que corporações tenham uma diretiva ambiciosa de modernização. Nestes casos, lembre-se que vôos podem ser diretos ou com conexões: um vôo pode levar diretamente ao destino, ou pode precisar de algumas pernas de vôo antes de chegar lá. Em outras palavras, projetos complexos requerem múltiplas repetições do processo de modernização.  
+    Se você escolheu a segunda opção b, acertou! É esperado que corporações tenham uma diretiva ambiciosa de modernização. Nestes casos, lembre-se que vôos podem ser diretos ou com conexões: um vôo pode levar diretamente ao destino, ou pode precisar de algumas pernas de vôo antes de chegar lá. Em outras palavras, projetos complexos requerem múltiplas repetições do processo de modernização.
+
+    
+
+    <!-- gostei da relaçao, um bom complemento seria: quanto mais distante o seu cliente esteja do alvo, é natural que precise de fazer paradas. Pense nessas paradas como um momento de avaliçao para verificar se está certo para continuar a jornada ou quebrar uma complexidade em pequenos passos -->  
 
 3. Por fim vamos definir, de forma geral, **como chegaremos lá**:
 
