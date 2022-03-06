@@ -8,13 +8,9 @@ Pois bem, este capítulo apresenta ao leitor ao contexto que circunda o período
 
 ## A origem
 
+Sob uma perspectiva de investimento, sempre houve necessidade de se fazer com o que a aplicações desenvolvidas chegasse o mais rápido possível na mão do usuário e investidores. Seja para justificar o custo, seja para garantir que o software atenderá a real necessidade do usuário.
 
-
-Na perspectiva de investimento, sempre vimos a necessidade de fazer com o que a aplicação desenvolvida chegue o mais rápido possível na mão do usuário e investidores. Seja para justificar o custo, seja para garantir que o software atenderá a real necessidade do usuário.
-
-
-
-Isso vem tornando cada vez mais evidente, principalmente, dado que complexidade e os detalhes dentro um produto/projeto tende a crescer e se integrar mais, tornando o desenvolvimento cada vez mais caro com o passar do tempo.
+Isso vem tornando cada vez mais evidente, principalmente, dado que complexidade e os detalhes dentro um produto/projeto tendem a crescer e se integrarem mais, tornando o desenvolvimento cada vez mais caro com o passar do tempo.
 
 Aos poucos o modelo cascasta passa a dar espaço a modelos focados em entregas menores e com flexibilidade para mudanças. 
 
@@ -74,7 +70,7 @@ Em resumo, a maior motivação para se adotar serviços de cloud é a possibilid
 
 ## Entenda os diversos serviços gerenciados
 
-Quando falamos de recursos e serviços de nuvem, novamente, usando o nosso princípio tudo dependerá do quê você deseja delegar de algum nível. 
+Quando falamos de recursos e serviços de nuvem, usando o nosso princípio, tudo dependerá do quê você deseja delegar de algum nível. 
 
 Como toda escolha que passa no ponto arquitetural é sempre importante que existe o trade-off. Por exemplo, ao passo que uma maior abstração nos garante um menor risco isso pode fazer com que o preço seja maior além existir um cloud vendor lock-in dentro da sua pilha tecnológica a ponto de ser difícil sair desse provider a medida que você utiliza esse recurso exclusivo.
 
@@ -93,17 +89,17 @@ Numa leitura de abstração, podemos pensar que cada serviço trabalha na abstra
 
 No **IaaS** ou instructure as service, estamos delegando o hardware. Em outras palavras, nós como organização não nos preocupamos com a gestão do servidor, energia, alugar um local para ter os servidores, refrigeração dos mesmos. Fazendo que o maior cliente ou público-alvo seja os engenheiros que tenham que lidar com operações como o SRE, por exemplo.
 
-No lado do **PaaS** ou platform as a service, damos um próximo passo na abstração. De modo que, além do hardware também delegamos toda a parte de operações. Com isso, o foco maior será com a criação de código e todo o restante será responsabilidade de outra pessoa. No geral, o público-alvo ou os seus maiores usuários são desenvolvedores ou engenheiros focados na entrega de código em si.
+No lado do **PaaS** ou platform as a service, damos um próximo passo na abstração. De modo que, além do hardware também delegamos toda a parte de operações. Com isso, o foco maior será com a criação de código e todo o restante será responsabilidade de outro alguém. No geral, o público-alvo ou os seus maiores usuários são desenvolvedores ou engenheiros focados na entrega de código em si.
 
 No último e no maior passo de abração de nuvem como serviço temos **SaaS** ou software as a service. É a última camada de abstração do qual além de se delegar as duas camadas anteriores, hardware e operações, também se delega a codificação também. De modo que o público-alvo são usuários que não precisam ter nenhum conhecimento de prévio de computação.
 
 Recapitulando:
 
-| Tipo de serviço | O problema de outra pessoa                    | Exemplos                                                    |
-| --------------- | --------------------------------------------- | ----------------------------------------------------------- |
-| IaaS            | hardware                                      | Configuração de servidor, energia elétrica, refrigeração    |
-| PaaS            | O anterior além dos  os detalhes de operações | Atualização de sistema operacional, firewall, backup        |
-| SaaS            | Todos os anterioes além do software           | Codificação, escolha de linguagem, definição de arquitetura |
+| Tipo de serviço | O problema de outro alguém                            | Exemplos                                                     |
+| --------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| IaaS            | hardware                                              | Servers e storage, networking, firewall, estruturas de data center; |
+| PaaS            | Tudo que está em IaaS mais detalhes de operações      | Sistema operacional e seu gerenciamento, backup, sistemas de banco de dados e serviços para disponibilizações aplicações |
+| SaaS            | Todos os anteriores mais o software propriamente dito | Hosted app, codificação, escolha de linguagem, definição de arquitetura |
 
 ### CaaS
 
@@ -121,64 +117,48 @@ Dentro as duas derivações podemos listar:
 
 * DBaaS
 * Decision and Processes as a Service
-* Managed event Streaming
-* Managed integration
+* Managed Event Streaming
+* Managed Integration
 
 #### E o Serverless?
 
-O serviço de [serverless](https://gw.alipayobjects.com/os/basement_prod/24ec4498-71d4-4a60-b785-fa530456c65b.pdf) está relacionado a um tipo de arquitetura/serviço que traz como conceito executar uma aplicação que não requer um serviço gerenciado. O que tende a ser bem semelhante ao PaaS, porém, sua maior característica está relacionado a uma maior elasticidade do qual uma aplicação é acionada, escalada e encerrada e o usuário é apenas pago por esse momento.
+O serviço de [serverless](https://gw.alipayobjects.com/os/basement_prod/24ec4498-71d4-4a60-b785-fa530456c65b.pdf) está relacionado a um tipo de arquitetura que traz como conceito executar uma aplicação que não requer um serviço gerenciado. O que tende a ser bem semelhante ao PaaS, porém, sua maior característica está relacionado a uma maior elasticidade do qual uma aplicação é acionada, escalada e encerrada e o usuário é apenas pago por esse momento.
 
- 
+ No geral, vendors serverless suportam um ou os dois tipos: 
 
-No geral, vendors serverless suportam um ou os dois tipos:
-
- 
-
-* **Function as a Service (FaaS)**: um tipo de serviço que no geral está relacionado com uma arquitetura event-driven. Os usuários, desenvolvedores, executa uma instrução ou função que é iniciada a partir de algum tipo de evento. Esse código escala sem nenhuma intervenção da infraestrutura.
+* **Function as a Service (FaaS)**: um tipo de serviço que no geral está relacionado com uma arquitetura event-driven. Os usuários, desenvolvedores, executam uma instrução ou função que é iniciada a partir de algum tipo de evento. Esse código escala sem nenhuma intervenção da infraestrutura.
 
 * **Backend-as-a-Service (BaaS)**: são instruções de terceiros utilizadas a partir de uma API. Nesse momento o código não é do usuário, desenvolvedor, ele consome esse tipo de recurso a partir de uma interface, por exemplo, HTTP.
 
 
+------
 
-Pensado numa relação de complexidade e foco no negócio, podemos pensar em uma analogia com um altímetro. Do qual, quanto mais próximo da nuvem ou de recursos gerenciados se tem uma maior tendência do foco ir para o negócio, porém, menos controle e detalhes da execução dessa pilha.
 
+## Tipos de cloud
 
+Pensando numa relação de complexidade e foco no negócio, podemos pensar em uma analogia com um altímetro. Do qual, quanto mais próximo da nuvem ou de recursos gerenciados se tem uma maior tendência do foco ir para o negócio, porém, menos controle e detalhes da execução dessa pilha.
 
 <PENSEI NO ALTIMÉTRO AQUI
 
 
-------
-## Tipos de cloud
 
 Assim como no mundo Java, o mundo cloud também tem o seu tipo de encapsulamento. Esse tipo de encapsulamento está muito relacionado ao quanto o serviço é compartilhado para outras empresas e não está relacionado a acesso. Sempre vale salientar que a segurança da informação é um dos pontos mais importantes dentro do ambiente de nuvem.
-
-
 
 * **Private cloud**: Uma nuvem privada é o serviço de nuvem que não é compartilhada com nenhuma outra organização. Assim, os usuários da cloud privada é a própria organização em si. A maior vantagem é ter um serviço feito sob medida para a sua organização como recursos, softwares, processos, etc. No entanto, existe o problema de custo de manutenção e a evolução dessa nuvem.
 * **Public cloud:** Na outra mão, existe a nuvem pública que é o serviço compartilhado entre diversas organizações ou clientes. Isso não quer dizer que os serviços e os dados são compartilhados entre os clientes, no geral, não são. A maior vantagem é que a organização não se preocupa com a manutenção, tende a possui diversos sabores de soluções, no entanto, não necessariamente faz sentido para a organização usar-lhos seja por compliance além de adaptar esse tipo de serviço para a realidade da organização de alguma forma. Sem falar da possibilidade de ficar preso em um único vendor de nuvem.
 * **Cloud hibrida:** Em alguns cenários é necessário combinar uma nuvem específica da minha organização com recursos e padrões já existentes no mercado. A junção dos dois é conhecido como nuvem híbrida, quando você junta o melhor e o pior do mundo em um único local.
 
-
-
 ### Multi cloud
 
-
-
 Como já mencionado, ao utilizar uma nuvem pública existe sempre a armadilha de ficar preso em um único vendor além da falha. Afinal, por mais maduro que seja o serviço não existe garantia em 100%. 
-
- 
 
 Uma das formas de reduzir as falhas como negação de serviço ou ser refém do preço de um único vendor é conseguir rodar a mesma aplicação em diversas organizações de nuvem.
 
 Esse conceito de multi-cloud é muitas vezes citado como o estado da arte para uma arquitetura em nuvem, porém, traz diversos desafios e complexidades em  lidar com redundâncias além da parte de contabilidade.
 
+## Conclusão
 
-
-## Conslusão
-
-
-
-Apesar de não uma relação direta entre cloud e agil é impressionante como os dois se combinam e auxiliam em uma entrega constante, continua e com confiança de um software. Com os anos, a industria entendeu a importância da integração entre times além de delegar ou abstrair pontos que não representam o core da empresa.
+Apesar de não haver uma relação direta entre cloud e agil é impressionante como os dois se combinam e auxiliam em uma entrega constante, contiínua e com confiança de um software. Com os anos, a industria entendeu a importância da integração entre times além de delegar ou abstrair pontos que não representam o core da empresa.
 
 Essa ideia é bastante análoga ao minimalismo defendida pelo Gustavo Cerbasi que na sua se traduz em ter apenas as coisas necessárias e ter um foco no que é importante para você. No ambiente de cloud, a sua organização pode abstrair tudo que é “commodity tecnológico” e focar no que é diferencial para a sua organização.
 
