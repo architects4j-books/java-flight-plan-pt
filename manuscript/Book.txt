@@ -1,1 +1,6 @@
+part_01.md
 chapter_01.md
+chapter_02.md
+chapter_03.md
+part_02.md
+about_me.md
