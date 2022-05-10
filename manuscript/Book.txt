@@ -1,2 +1,3 @@
 chapter_01.md
+chapter_02.md
 about_me.md
