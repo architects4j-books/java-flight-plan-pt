@@ -6,4 +6,19 @@
 
 ## Otávio Santana
 
-**About him:** Empowering developers worldwide to deliver better software faster, scalable in the Cloud. Otavio is a passionate software engineer focused on Cloud and Java technology. He has experience mainly in persistence polyglot and high-performance applications in finances, social media, and e-commerce. Otavio is a member of both Expert Groups and Expert Leader in several JSRs and JCP executive committees. He is working on several Apache and Eclipse Foundation projects such as Apache Tamaya, MicroProfile, Jakarta EE, where he is leading the first specification at Jakarta EE with Jakarta NoSQL. A JUG leader and global speaker at JavaOne and Devoxx conferences. Otavio has received recognition for his OSS contributions such as the JCP Outstanding Award, Member of the year and innovative JSR, Duke’s Choice Award, and Java Champion Award, to name a few.
+**About him:** Empowering staff-plus engineers to deliver highly scalable software on the cloud lets them become influential in their companies and the market and move their technical careers to the next level.
+
+Otavio is a passionate architect and software engineer focused on cloud and Java technologies. He has deep expertise in polyglot persistence and high-performance applications in finance, social media, and e-commerce.
+
+As an open-source contributor, Otavio is directly involved in the Java world as an expert leader in several specifications at the Java Community Process (JCP) and the Eclipse Foundation. His work on the Apache and Eclipse Foundations helps projects such as MicroProfile and Jakarta EE to flourish. As a NoSQL expert, Otávio works with many databases and APIs, including the Jakarta NoSQL specification. 
+
+Otávio is also the representative of SouJava, the Brazilian Java Users Society, on the JCP and Jakarta EE boards. He has helped the direction and objectives of the Java platform since Java 8.
+
+Otávio is a JUG leader, instructor, and mentor. Focusing on helping developers grow their careers, Otávio has authored articles and books about software architecture, Java, good practices, software engineering, software design, and the cloud.
+
+As a global speaker, he has presented at the most significant international conferences such as JavaOne, TDC, and Devoxx. He volunteers and helps organize several Java User Groups and meetups around the globe.
+
+Otavio is recognized for his Open Source contributions and has received many awards, including all JCP Awards categories and the Duke’s Choice Award, to name a few. Otávio is also a distinguished member of the Java Champions and Oracle ACE programs. 
+
+Otávio loves history, economy, traveling, programming, and real-world languages. He speaks Portuguese, English, Spanish, Italian, and French and is fluent in dad jokes.
+
